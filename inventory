@@ -1,0 +1,17 @@
+[nagios_ubuntu]
+192.168.56.103
+
+[nagios_centos]
+192.168.56.104
+
+[elastic_ubuntu]
+192.168.56.103
+
+[elastic_centos]
+192.168.56.104
+
+[prometheus_ubuntu]
+192.168.56.103
+
+[prometheus_centos]
+192.168.56.104
